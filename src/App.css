@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+.flex{
+  display: flex;
+}
+.header{
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+.header ul li{
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 20px;
+}
